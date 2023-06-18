@@ -1,7 +1,17 @@
+<table>
+ <tr>
+  <th>About me</th>
+  <th> 👋 𝙷𝚎𝚕𝚕𝚘!</th>
+  </tr>
+ <tr>
+ <td>I'm Daphnée a French software dev located in Netherlands. My initial formation is human biology, but I fell in love with silicon based life. During my career I've programmed for labs, pharma, food industry and Tech. I'm a jack of all trades and programmed professionaly in various languages, led teams, self hosted productions applications, monitored them and managed projects to fruition. I've programmed mostly in Python, but I'm not afraid of other languages, programming also in Go, JS and Godot.
+</td>
+  <td>
+  <img alt= "Myself. Stylish isn't it?" src="/Me-Picture.jpeg" width=1500 />
+   </td>
+  </tr>
+</table>
 
-<h1 align="center" title="and Welcome">👋 𝙷𝚎𝚕𝚕𝚘!</h1>
-
-I'm Daphnée a French software dev located in Netherlands. My initial formation is human biology, but I fell in love with silicon based life. During my career I've programmed for lab, pharma, food industry and tech. I'm a jack of all trades and programmed professionaly in various languages, led teams, self hosted productions applications, monitored them and managed projects to fruition.
 
 
 <h3 id="my-side-projects">My side projects</h3>
