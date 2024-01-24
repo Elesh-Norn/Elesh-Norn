@@ -23,13 +23,13 @@
 <ul>
 <li>One Notif, a service to update me only once a day, written in Golang. It is not finished but you can check it out <a href="https://github.com/Elesh-Norn/OneNotif">there</a>.</li>
 <li>A Visual novel/Adventure game made in Godot.</li>
-<li>A boardgame game inspired by 100% Orange Juice in Godot.</li>
 <li>My blogs.</li>
 </ul>
 </details>
 <details>
 <summary><b>↕️ Finished side projects:</b></summary>
 <ul>
+ <li> A puzzle Bobble Clone made in 5 days for no reason [2024]. Available on itch.io <a href=https://emberger.itch.io/witchorbs>here</a>.</li>
 <li>A Full Dungeon Crawler made in a 7 day Game Jam [2023]. Available on itch.io <a href="https://emberger.itch.io/cosmicdelusion">here</a>.</li>
 <li>A Dungeon Crawler Prototype made in Godot [2023]. Available on itch.io <a href="https://emberger.itch.io/protogoblindungeon">here</a>.</li>
 <li>A VN entirely made with AI [2023]. I talk about it on this <a href="https://daphdevnotebook.netlify.app/posts/gamewithai/">blog here</a>.</li>
