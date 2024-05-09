@@ -17,9 +17,9 @@
 - <a href=https://daphdevnotebook.xyz/> Coding blog</a>
 
 <h3 id="games">Play some of my games!</h3>
-
+- <a href="https://emberger.itch.io/duat">Duat, another old school crawler</a>
 - <a href="https://emberger.itch.io/witchorbs">WitchOrbs, a puzzle bobble clone.</a>
-- <a href="https://emberger.itch.io/cosmicdelusion">Cosmic Delusion, for old school dungeon crawlers.</a>
+- <a href="https://emberger.itch.io/cosmicdelusion">Cosmic Delusion, a old school dungeon crawlers.</a>
 
 <h3 id="my-side-projects">My side projects</h3>
 <p>When I have free time, I like to mess around with small projects to challenge myself, often to complement my gaming hobbies.
