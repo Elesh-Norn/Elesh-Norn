@@ -12,9 +12,13 @@
   </tr>
 </table>
 
+<h3 id="SteamAnnouncement">Wishlist my game on Steam! </h3>
+
+<a href="https://store.steampowered.com/app/2945950/Dice_n_Goblins/" > Dice'n Goblins </a>
+
 <h3 id="blogs"> Read my blog!</h3>
 
-- <a href=https://daphdevnotebook.xyz/> Coding blog</a>
+<a href=https://daphdevnotebook.xyz/> Coding blog</a>
 
 <h3 id="games">Play some of my games!</h3>
 - <a href="https://emberger.itch.io/duat">Duat, another old school crawler</a>
