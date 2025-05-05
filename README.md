@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-<h3 id="SteamAnnouncement">Wishlist my game on Steam! </h3>
+<h3 id="SteamAnnouncement">Play my game on Steam! </h3>
 
 <a href="https://store.steampowered.com/app/2945950/Dice_n_Goblins/" > Dice'n Goblins </a>
 
