@@ -4,7 +4,7 @@
   <th> 👋 𝙷𝚎𝚕𝚕𝚘!</th>
   </tr>
  <tr>
- <td>I'm Daphnée a French software dev located in Netherlands. My initial formation is human biology, but I fell in love with silicon based life. During my career I've programmed for labs, pharma, food industry and Tech. I'm a jack of all trades and programmed professionaly in various languages, led teams, self hosted productions applications, monitored them and managed projects to fruition. I've programmed mostly in Python, but I'm not afraid of other languages, programming also in Go, JS and Godot.
+ <td>I'm Daphnée a French software dev located in Netherlands. My initial formation is human biology, but I fell in love with silicon based life. During my career I've programmed for labs, pharma, food industry and Tech. I'm a jack of all trades and programmed professionaly in various languages, led teams, self hosted productions applications, monitored them and managed projects to fruition. I've programmed mostly in Python, but I'm not afraid of other languages, programming also in Go, JS and Godot. I migrated most of my personal project towards a private solution and I'm not super active on github anymore.
 </td>
   <td>
   <img alt= "Myself. Stylish isn't it?" src="/Me-Picture.jpeg" width=1500 />
@@ -12,15 +12,16 @@
   </tr>
 </table>
 
-<h3 id="SteamAnnouncement">Play my game on Steam! </h3>
+<h3 id="SteamAnnouncement">Play my commercial games on Steam! </h3>
 
 <a href="https://store.steampowered.com/app/2945950/Dice_n_Goblins/" > Dice'n Goblins </a>
-
+<a href="https://store.steampowered.com/app/4142360/Paradox_Tower/" > Paradox Tower </a>
 <h3 id="blogs"> Read my blog!</h3>
 
 <a href=https://daphdevnotebook.xyz/> Coding blog</a>
 
-<h3 id="games">Play some of my games!</h3>
+<h3 id="games">Play some of my free games!</h3>
+- <a href=https://coldember.itch.io/outerspace-blues> Outerspace blues, yet another old school dungeon crawler</a>
 - <a href="https://emberger.itch.io/duat">Duat, another old school crawler</a>
 - <a href="https://emberger.itch.io/witchorbs">WitchOrbs, a puzzle bobble clone.</a>
 - <a href="https://emberger.itch.io/cosmicdelusion">Cosmic Delusion, a old school dungeon crawlers.</a>
@@ -29,16 +30,7 @@
 <p>When I have free time, I like to mess around with small projects to challenge myself, often to complement my gaming hobbies.
  
 <details>
-<summary><b>↕️ Current side projects:</b></summary>
-<p>Current side projects:</p>
-<ul>
-<li>One Notif, a service to update me only once a day, written in Golang. It is not finished but you can check it out <a href="https://github.com/Elesh-Norn/OneNotif">there</a>.</li>
-<li>A Visual novel/Adventure game made in Godot.</li>
-<li>My blogs.</li>
-</ul>
-</details>
-<details>
-<summary><b>↕️ Finished side projects:</b></summary>
+<summary><b>↕️ Old Finished side projects:</b></summary>
 <ul>
  <li> A puzzle Bobble Clone made in 5 days for no reason [2024]. Available on itch.io <a href=https://emberger.itch.io/witchorbs>here</a>.</li>
 <li>A Full Dungeon Crawler made in a 7 day Game Jam [2023]. Available on itch.io <a href="https://emberger.itch.io/cosmicdelusion">here</a>.</li>
