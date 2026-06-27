@@ -25,8 +25,11 @@
 
 <h3 id="games">Play some of my free games!</h3>
 - <a href=https://coldember.itch.io/outerspace-blues> Outerspace blues, yet another old school dungeon crawler</a>
+
 - <a href="https://emberger.itch.io/duat">Duat, another old school crawler</a>
+
 - <a href="https://emberger.itch.io/witchorbs">WitchOrbs, a puzzle bobble clone.</a>
+
 - <a href="https://emberger.itch.io/cosmicdelusion">Cosmic Delusion, a old school dungeon crawlers.</a>
 
 <h3 id="my-side-projects">My side projects</h3>
