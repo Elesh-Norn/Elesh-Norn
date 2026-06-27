@@ -4,7 +4,9 @@
   <th> 👋 𝙷𝚎𝚕𝚕𝚘!</th>
   </tr>
  <tr>
- <td>I'm Daphnée a French software dev located in Netherlands. My initial formation is human biology, but I fell in love with silicon based life. During my career I've programmed for labs, pharma, food industry and Tech. I'm a jack of all trades and programmed professionaly in various languages, led teams, self hosted productions applications, monitored them and managed projects to fruition. I've programmed mostly in Python, but I'm not afraid of other languages, programming also in Go, JS and Godot. I migrated most of my personal project towards a private solution and I'm not super active on github anymore.
+ <td>I'm Daphnée a French software dev located in Netherlands. My initial formation is human biology, but I fell in love with silicon based life. During my career I've programmed for labs, pharma, food industry and Tech. I'm a jack of all trades and programmed professionaly in various languages, led teams, self hosted productions applications, monitored them and managed projects to fruition. I've programmed mostly in Python, but I'm not afraid of other languages, programming also in Go, JS and Godot. 
+  
+  I migrated most of my personal project towards a private solution and I'm not super active on github anymore.
 </td>
   <td>
   <img alt= "Myself. Stylish isn't it?" src="/Me-Picture.jpeg" width=1500 />
@@ -15,6 +17,7 @@
 <h3 id="SteamAnnouncement">Play my commercial games on Steam! </h3>
 
 <a href="https://store.steampowered.com/app/2945950/Dice_n_Goblins/" > Dice'n Goblins </a>
+
 <a href="https://store.steampowered.com/app/4142360/Paradox_Tower/" > Paradox Tower </a>
 <h3 id="blogs"> Read my blog!</h3>
 
